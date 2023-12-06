@@ -5,4 +5,3 @@
 #### Specific fields of interest include Back-end Systems & APIs using python (Django and Flask), PHP (Laravel and Codeigniter), java (Spring) and Amazon Web Services. Also Mobile Application Development using Flutter 
 
 - 🔭 I’m currently working on Backend Services Project: Java (Java Spring) | Python(Django or Flask) | Php (Codeigniter/Laravel)
-- 💬 Ask me about ... Backend Services Integrations of any Kind from Payments, Notifications to Bots Integrations
