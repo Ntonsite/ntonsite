@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntonsite" alt="ntonsite" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lawmassanja" target="blank"><img src="https://img.shields.io/twitter/follow/lawmassanja?logo=twitter&style=for-the-badge" alt="lawmassanja" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ntonsite" target="blank"><img src="https://img.shields.io/twitter/follow/ntonsite?logo=twitter&style=for-the-badge" alt="ntonsite" /></a> </p>
 
 - 🔭 I’m currently working on Mobile financial services innovations
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ntonsite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="lawmassanja" height="30" width="40" /></a>
+<a href="https://twitter.com/ntonsite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ntonsite" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ntonsite-mwamlima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/
 </p>
 
