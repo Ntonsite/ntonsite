@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Mobile financial services innovations
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Rust & React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ntonsite](https://github.com/ntonsite)
 
